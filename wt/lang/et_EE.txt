@@ -1,0 +1,218 @@
+err_login = VIGA: Vale kasutaja või parool
+err_users_nosel = VIGA: Eemaldamiseks pole valitud ühtegi kasutajat
+info_users_added = Kasutaja edukalt lisatud
+err_users_add = No user/password set, please check input data
+info_users_deleted = Kasutaja(d) edukalt kustutatud
+info_tor_stop = Torrent(id) edukalt peatatud
+info_tor_close = Torrent(id) edukalt suletud
+info_tor_start = Torrent(id) edukalt käivitatud
+info_tor_erase = Torrent(id) edukalt kustutatud
+info_tor_chash = Torrenti räsi kontroll edukalt käivitatud
+info_add_torrent = Torrent edukalt lisatud
+err_add_torrent = Viga torrenti lisamisel
+err_add_dir = VIGA: Ei õnnestu valitud kataloogi faili luua, palun kontrolli õigusi
+err_add_file = VIGA: Fail on juba torrenti kataloogis olemas, ei saa .torrent luua
+info_add_upload = täis kataloogi rada, lõpus /
+
+low = Madal
+normal = Tavaline
+high = Kõrge
+idle = Jõude
+change_pr = Muuda
+err_pr = Halb prioriteedi seade
+info_pr = Prioriteet edukalt muudetud
+
+file_off = Ära lae alla
+file_normal = Tavaline
+file_high = Kõrge
+change_pr = Muuda prioriteeti
+start_now = Alusta kohe:
+private = Privaatne:
+no_torrents = Torrenteid ei leitud
+pl_torrents = Avalik
+pr_torrents = Privaatne
+
+down_limit = Allalaadimis piirang:
+up_limit = Üleslaadimis piirang:
+change_dlimit = Muuda allalaadimis piirangut
+change_ulimit = Muuda üleslaadimis piirangut
+
+info_down_limit = Allalaadimis piirang muudetud
+err_down_limit = VIGA: allalaadimis piirang vigane
+info_up_limit = Üleslaadimis piirang muudetud
+err_up_limit = VIGA: üleslaadimis piirang vigane
+
+logout = Välju
+info_logout = Sa oled edukalt välja logitud
+
+enable = Luba
+disable = Keela
+change_tr = Muuda
+info_ch_trackers = Jälitaja edukalt muudetud
+
+tl_feeds = Vood
+edit_feed = Muuda voogu
+erase_feed = Kustuta voog
+title_feeds = Pealkiri
+desc_feeds = Kirjeldus
+view_feed = Vaata voogu
+feed_add = Lisa voog
+tl_feed_add = Lisa uus voog
+info_add_feed = Voo lisamine õnnestus
+info_erase_feed = Voo kustutamine õnnestu
+no_feeds = Ühtegi voogu ei leitud, palun lisa mõni
+feed_torrent = Torrenti nimi
+feed_date = Kuupäev
+feed_down_tor = Lae torrent alla
+down_dir = Allalaadimis kataloog
+download_dir = Muuda kataloogi
+feed_url = Voo aadress
+
+info_ch_dir = Allalaadimis kataloog edukalt muudetud
+err_ch_dir = Allalaadimis kataloogi muutmine ebaõnnestus
+down_started = Allalaadimine alustatud
+
+log_in = Sa ei ole sisse loginud või su sessioon on aegunud, palun lae leht uuesti
+command_error = Viga käskude käitlemisel, palun lae leht uuesti ja proovi veel.
+
+info_ch_files = Faili prioriteet edukalt muudetud
+err_ch_files = Viga prioriteedi muutmisel, palun kontrolli väärtusi ja proovi uuesti
+
+tb_name = Nimi
+tb_seeds = Seemneid
+tb_peers = Kasutajaid
+tb_download = DL(KB/s)
+tb_upload = UP(KB/s)
+tb_done = Valmis
+tb_size = Suurus
+tb_percent = Protsent
+tb_ratio = Suhe
+tb_eta = ETA
+
+err_conn = VIGA: rtorrentiga ühenduse loomine ebaõnnestus
+conf_erase = Soovid selle torrenti kustutada?
+
+check_all = Vali kõik
+uncheck_all = Tühista valik
+invert_all = Vaheta valik
+action = Rakenda
+start = Alusta
+stop = Peata
+close = Sulge
+erase = Kustuta
+
+user = Kasutaja
+admin = Admin
+conf_user_del = Soovid need kasutajad kindlasti kustutada ?
+no_users = Kasutajaid ei leitud
+add_user = Lisa kasutaja
+password = Parool
+ch_bandwidth = Muuda ribalaiuse kasutust
+kb_units = KB
+chash = Kontrolli räsi
+closet = Sulge
+
+
+cookie_host = Küpsise host                                                                                                                                                                                                           
+cookie_value = Küpsise väärtus                                                                                                                                                                                                         
+cookie_add = Lisa                                                                                                                                                                                                                     
+cookie_edit = Muuda                                                                                                                                                                                                                  
+cookie_erase = Kustuta                                                                                                                                                                                                                
+cookies_hostname = Hosti nimi                                                                                                                                                                                                         
+cookies_value = Väärtus                                                                                                                                                                                                               
+cookie_no_cookies = Küpsiseid pole                                                                                                                                                                                                      
+cookie_tl_cookie_add = Lisa                                                                                                                                                                                                          
+tb_uploaded = Üles laetud                                                                                                                                                                                                              
+no_curl_function = PHPs pole curli funktsiooni
+
+default_dir = Vaikimisi kataloog
+force_default = Sunni vaikekataloogi kasutus
+
+ip = IP
+speed = Kiirus (KB/s)
+connection = Ühendus
+percent_done = % valmis
+encryption = Krüpteeritud
+client = Klient
+down = DL (KB/s)
+incoming = Sisenev
+outgoing = Väljuv
+yes = Jah
+no = Ei
+up_peer = Üles kasutaja (KB/s)
+down_peer = Alla kasutaja (KB/s)
+no_peers = Kasutajaid ei leitud
+
+space = Ruum:
+dw_rate = Allalaadimis kiirus:
+up_rate = Üleslaadimis kiirus:
+free = Vaba: 
+
+files = Failid
+file_name = Faili nimi
+priority = Prioriteet
+torrent = Torrent
+torrent_file = Torrenti fail
+torrent_url = Torrenti aadress
+data_path = Andmete asukoht
+rtorrent_message = rTorrenti teade
+min_peers = Min kasutajaid
+max_peers = Maks kasutajaid
+url = Aadress
+ul_file = Lae fail üles
+user = Kasutaja
+password = Parool
+login = Logi sisse
+
+Admin = Admin
+ListT = Esileht
+AddT = Lisa torrent
+Feeds = Vood
+Cookie = Küpsised
+active = Aktiivsed
+started = Käivitatud
+complete = Valmis
+seeding = Jagatavad
+hashing = Räsi kontroll
+incomplete = Pole valmis
+stopped = Peatatud
+
+invalid_order = Sortimisel määratud lubamatu järjestus
+confirm_chash = Soovi alustada %S räsi kontrolli?
+confirm_erase = Soovid %S eemaldada?
+no_torrents_selected = Torrenteid pole valitud
+language_err = <b>Viga:</b> keele fail ei ole loetav. Palun sea paremad õigused. 
+config_install_err = <b>Viga:</b> user.conf.php ei õnnestu kirjutada, palun kontrolli conf/ kausta õigusi. 
+rt_install_err = <b>Viga:</b> rtorrentiga ühenduse loomine nurjus. Palun kontrolli hosti, kataloogi ja pordi väärtusi (ning kasutajat/parooli kui oled need seadnud). 
+dir_torrents_err = <b>Viga:</b> torrentite kausta kirjutamine nurjus, palun kontrolli õigusi.
+dir_exec_err = <b>Viga:</b> käivitus kataloogi pole olemas, palun seadista õige kataloog.
+db_file_err = <b>Viga:</b> andmebaasi faili loomine nurjus. Palun kontrolli õigusi.
+db_create_err = <b>Viga:</b> andmebaasi avamine nurjus, palun kontrolli, et sul on sqlite PDO laiendus paigaldatud.
+missing_user = <b>Viga:</b> palun seadista kasutaja ja parool.
+try_ok = Konfiguratsioon tundub korras olevat, võid selle salvestada.
+create_config_ok = Konfiguratsioonifail ja andmebaas loodud,  naudi wTorrentit ja ära unusta kustutamast install.php.
+
+false = Väär
+true = Tõene
+
+wtorrent_settings = wTorrenti seaded
+user_password = Sea wTorrenti login
+language_info = Keel:
+db_file_info = Andmebaasi fail:
+rt_host_info = rTorrenti scgi host:
+rt_port_info = rTorrenti scgi port: 
+rt_dir_info = rTorrenti scgi kaust: 
+rt_auth_info = Luba scgi kausta autentimine:
+rt_user_info = rTorrent scgi kasutaja:
+rt_passwd_info = rTorrent scgi parool:
+no_multicall_info = Ära kasuta multicalli:
+effects_info = Kasutaja scriptaculous efektid: 
+dir_torrents_info = Üleslaetavate torrentite salvestus kaust:
+dir_exec_info = wTorrenti asukoha kaust:
+dir_download_info = Torrentite allalaadimis kaust:
+user_info = Kasutaja:
+passwd_info = Parool:
+try_info = Proovi konfiguratsiooni
+save_info = Salvesta konfiguratsioon
+install = PAIGALDA 
+
